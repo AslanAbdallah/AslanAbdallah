@@ -1,8 +1,8 @@
 # Hi, I'm Abdallah Nezar
 
-**I run finance and build the software behind it.**
+**I run finance and IT for a multi-brand restaurant group.**
 
-IT & Finance Manager at a multi-brand F&B group in Amman, Jordan. I own the month-end close, budgets and management reporting, and I build the Odoo ERP and in-house apps every branch runs on. Software engineer by training, five years in QA, and founder of two SaaS products.
+IT & Finance Manager at a multi-brand F&B group in Amman, Jordan. I run month-end, budgets and FP&A, and I own the company's Odoo 18 ERP: about 40 custom modules, the integrations and the apps every branch uses daily. Software engineer by training, five years in QA, and founder of two SaaS products.
 
 [**Portfolio**](https://aslanabdallah.github.io) · [LinkedIn](https://www.linkedin.com/in/abdallah-abdallah-aslan/) · [Email](mailto:abdallahnezarabdallah@gmail.com)
 
@@ -16,7 +16,7 @@ IT & Finance Manager at a multi-brand F&B group in Amman, Jordan. I own the mont
 | **[FinaCast](https://finacast.up.railway.app/)** | Financial forecasting and FP&A: upload a P&L, get 25+ ratios, anomaly detection, scenarios and backtested forecasts. |
 | **[Odoo Modules](https://github.com/AslanAbdallah/Odoo-Modules)** | Open-source modules I publish for Odoo POS and Purchasing. |
 
-Most of my work lives in private repositories. The [portfolio](https://aslanabdallah.github.io) has the full picture.
+Most of my work lives in private repositories: the ERP modules, case studies and finance work are written up on the [portfolio](https://aslanabdallah.github.io).
 
 ### What I work with
 
@@ -28,4 +28,4 @@ Most of my work lives in private repositories. The [portfolio](https://aslanabda
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
-**Finance:** month-end close · budgeting · budget vs. actual · cost control · management reporting · financial modelling
+**Finance:** month-end close · budgeting · budget vs. actual · FP&A reporting · cost control · sales-tax reconciliation · financial modelling
